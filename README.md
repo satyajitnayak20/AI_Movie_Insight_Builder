@@ -105,7 +105,7 @@ npm run test:watch
 3. Import your repository
 4. Add environment variables in the Vercel dashboard:
    - `OMDB_API_KEY` → your key
-   - `ANTHROPIC_API_KEY` → your key
+   - `GROQ_API_KEY` → your key
 5. Click **Deploy**
 
 ### Option B — Vercel CLI
@@ -120,7 +120,7 @@ Set environment variables when prompted, or via:
 
 ```bash
 vercel env add OMDB_API_KEY
-vercel env add ANTHROPIC_API_KEY
+vercel env add GROQ_API_KEY
 ```
 
 ---
