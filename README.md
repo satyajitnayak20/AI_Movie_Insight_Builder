@@ -69,7 +69,7 @@ Edit `.env.local`:
 
 ```env
 OMDB_API_KEY=your_omdb_api_key_here
-ANTHROPIC_API_KEY=your_anthropic_api_key_here
+GROQ_API_KEY=your_groq_key_here
 ```
 
 > ⚠️ Never commit `.env.local` to version control. It's already in `.gitignore`.
