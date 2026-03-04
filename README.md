@@ -42,7 +42,7 @@
 - Node.js 18.17+ 
 - npm or yarn
 - [OMDb API key](https://www.omdbapi.com/apikey.aspx) (free)
-- [Anthropic API key](https://console.anthropic.com/) (Claude access)
+- [GROQ_API_KEY](https://console.groq.com/) (Groq  access)
 
 ### 1. Clone the Repository
 
